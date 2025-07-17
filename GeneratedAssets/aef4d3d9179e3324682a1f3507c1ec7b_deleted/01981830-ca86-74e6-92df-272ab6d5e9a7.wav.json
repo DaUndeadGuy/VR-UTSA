@@ -1,0 +1,13 @@
+{
+    "asset": "aef4d3d9179e3324682a1f3507c1ec7b",
+    "fileName": "01981830-ca86-74e6-92df-272ab6d5e9a7.wav",
+    "prompt": "A female saying Hi with a medium pitch voice",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "f484dd05d162f758511c2ee775926e3d",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

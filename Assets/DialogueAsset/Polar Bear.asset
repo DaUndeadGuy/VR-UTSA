@@ -1,0 +1,429 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f126bc02a80724f96f515d47c73fe3, type: 3}
+  m_Name: Polar Bear
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  npcName: 
+  lines:
+  - speaker: 0
+    sentence: -ke up!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Ugh\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 11400000, guid: a79a9d77126027e44a2b6e0e273738bf, type: 2}
+  - speaker: 0
+    sentence: Wake!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Up!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "hmmm\u2026-"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I am my own boss, leave any paperwork on my desk\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I\u2019ll get up in a bit."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Player opens his eyes, camera zooms in on the bear
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: And close the door!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "\u2026Huh?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Nobody\u2019s here\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Finally! You\u2019re awake."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: . . .
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: GAH!!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: It talks?!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Yes.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: I.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: do!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: A paperweight is talking to me right now...
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I\u2019ve officially gone insane."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Oh!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: I get it.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: That was probably a pre-recorded message.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Nope! I\u2019m not and I\u2019m obviously a polar bear!"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: '*Polar bear moves around*'
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Or maybe\u2026 someone is listening and reacting to this live?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "And it looks like someone\u2019s about to get fired!"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Wrong.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Also don\u2019t fire people over something so trivial."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: I think I get it!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: You do?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Is this all part of the incline my dad was talking about?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Are you stupid?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Nevermind.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "What if I told you, I\u2019m actually a part of you?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: You could say, similar to a conscience.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "I know what\u2019s been troubling you, so you have to listen to me."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Do I really have to listen to my own paperweight claiming it\u2019s
+      my conscience?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "First of all\u2026 Polar. Bear. Aren\u2019t you listening?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Second, you got any other friends you can talk to?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Last I checked, you abandoned your friends to pursue this career.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "You can\u2019t contact your parents right now\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "And you don\u2019t even have a gir-"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Okay! Okay! I get it. I\u2019m listening."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Great! Let\u2019s get down to business."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Don\u2019t you feel guilty for what happened?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Not really, I don\u2019t think it\u2019s my fault."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I\u2019m just the guy who approved it,"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: This is the reason why I hired a team of experts.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: They were supposed to find the issues and faults of the project.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Alright, let\u2019s approach this from a different angle."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Do you want to remove the toxic clouds immediately?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Yeah, of course I do.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Don\u2019t you want to return to that breathtaking view by your office
+      in Bayside?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Yeah!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: And the thought of the families, businesses, and government officials
+      potentially suing the company for billions in damages is weighing heavily on
+      your mind, right?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "YEA-- Wait\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: What?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Well, the answer is simple, with the public\u2019s current hate train
+      right now\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: There is only one thing to do.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: And that is?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Absolutely nothing.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Excuse me?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "No offense, but you\u2019re not really smart or charismatic enough
+      for this\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Let\u2019s give the PR and legal team, and all the other people that
+      are actually qualified for this to figure all this out."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Let\u2019s leave the decisions and planning up to them."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "So you\u2019re telling me."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: I should do nothing?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "We\u2019ll just have to lay low for now."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: I mean, your plan was to hide in a subsidiary and wait it out.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: So you got some things right.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I mean\u2026 the Polarity Inc. building was nearby\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Uhuh\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Although, if you want to soothe your guilty conscience\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: I have a proposition.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: "Why don\u2019t you make sure Marina City doesn\u2019t turn into another
+      Bayside?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Huh, why?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: I mean, Marina City looks fine to me.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}

@@ -1,0 +1,13 @@
+{
+    "asset": "76fb3d64de3d6314ea3eb56fd4e45e1f",
+    "fileName": "019842c6-d599-7a3b-8c34-c41b579e0395.wav",
+    "prompt": "Polar Bear Growl",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "6cd66d22b449430f9918a1dd676dc02e",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

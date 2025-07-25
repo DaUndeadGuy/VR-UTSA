@@ -1,0 +1,13 @@
+{
+    "asset": "76fb3d64de3d6314ea3eb56fd4e45e1f",
+    "fileName": "019842c9-77fb-7320-a709-239e8123c3ee.wav",
+    "prompt": "Polar bear growl",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "f53f00594dd7fa4c82ded8b8213201ec",
+    "duration": 1.7999999523162842,
+    "autoTrim": true,
+    "hasReference": false
+}

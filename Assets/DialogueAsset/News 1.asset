@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f126bc02a80724f96f515d47c73fe3, type: 3}
+  m_Name: News 1
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  npcName: News
+  lines:
+  - speaker: 0
+    sentence: We interrupt this program with some breaking news.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Toxic clouds continue to spread across the town of Bayside, putting
+      its citizens at risk.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: The govern-
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: It really is in every channel, huh?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: -all of the citizens of Bayside to evacuate the city at once.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Meanwhile, neighboring towns have gathered together to protest in unison
+      against Continuity Industries.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: And as of this moment, Continuity Industries has yet to release any
+      official (/public) statements rega-
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: What an amazing start to my CEO life.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Tell me, bear.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: What do I do?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Everyone\u2019s blaming my company."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "No\u2013worse\u2013they\u2019re blaming me."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Dad told me this job would be easy.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Approve this, approve that.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Everything was going well until that stupid project came along...
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Fund and develop our own chemical manufacturing plant in Bayside.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Then the leak\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 0
+    sentence: Player ruffles his hair or something in distress
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Why am I being blamed for this!?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: How was I supposed to know that might happen?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I didn\u2019t even understand what was written in the reports!"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: This is why I hired people to worry about these stupid problems for
+      me!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: They even said this entire thing was foolproof!
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "It\u2019s their fault for not finding and fixing the issues."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "All I did was fund the project\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Yeah, it\u2019s not my fault."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I mean\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: I kind of knew the risks of accepting such a partnership, (/project),
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: From such a small company.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "So I guess\u2026I\u2019m partially responsible for what happened."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "It\u2019s okay, dad told me not to worry about it."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Accidents happen all the time, right?
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Like he always said.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "The road isn\u2019t always straight, yeah I\u2019m just at an incline
+      right now\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "All I need to do is wait it out\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: Nobody told me being a CEO would be so complicated.
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Can\u2019t our company just make wooden bear sculptures instead?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "It\u2019s easier, no need to think too much into it."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Carve out tiny bears like the one I made right here and\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "and\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "I\u2019ve been talking to a figurine I made this entire time, haven\u2019t
+      I?"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "\u2026Great."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Well, since I\u2019m not getting any calls, maybe\u2026"
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 0}
+  - speaker: 1
+    sentence: "Maybe a quick nap wouldn\u2019t hurt."
+    customDelay: 0
+    audioClip: {fileID: 0}
+    timelineClip: {fileID: 11400000, guid: 16b6f0a109005cf4f9662a6c7d34f5aa, type: 2}
